@@ -39,7 +39,7 @@
 Добавьте в Zabbix два хоста и задайте им имена <фамилия и инициалы-1> и <фамилия и инициалы-2>. Например: ivanovii-1 и ivanovii-2.
 
 Скриншот к Заданию 2 Созданы хосты
-[https://github.com/Denic5/Zabbix2/blob/cdc7715828c6a0570fbac8f3b1f887cb684c183d/img/Hosts.png](https://github.com/Denic5/Zabbix2/blob/08480063dffec850a0506a038412c40d973e8ae7/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%20%D0%BA%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8E%202.png)
+[[https://github.com/Denic5/Zabbix2/blob/cdc7715828c6a0570fbac8f3b1f887cb684c183d/img/Hosts.png](https://github.com/Denic5/Zabbix2/blob/08480063dffec850a0506a038412c40d973e8ae7/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%20%D0%BA%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8E%202.png)](https://github.com/Denic5/Zabbix2/blob/888c87a0a60cf67d80b5e7833617f09f83b4eb14/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%20%D0%BA%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8E%202.png)
 
 Процесс выполнения
 Выполняя ДЗ сверяйтесь с процессом отражённым в записи лекции.
