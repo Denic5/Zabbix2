@@ -50,7 +50,7 @@
 Прикрепите за каждым хостом шаблон Linux by Zabbix Agent
 Проверьте что в разделе Latest Data начали появляться данные с добавленных агентов
 
-
+https://github.com/Denic5/Zabbix2/blob/main/img/Last%20data.png?raw=true
 
 
 Требования к результату
