@@ -39,7 +39,7 @@
 Добавьте в Zabbix два хоста и задайте им имена <фамилия и инициалы-1> и <фамилия и инициалы-2>. Например: ivanovii-1 и ivanovii-2.
 
 Скриншот к Заданию 2 Созданы хосты
-https://github.com/Denic5/Zabbix2/blob/cdc7715828c6a0570fbac8f3b1f887cb684c183d/img/Hosts.png
+![alt text] (https://github.com/Denic5/Zabbix2/blob/cdc7715828c6a0570fbac8f3b1f887cb684c183d/img/Hosts.png)
 
 Процесс выполнения
 Выполняя ДЗ сверяйтесь с процессом отражённым в записи лекции.
