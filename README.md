@@ -39,7 +39,7 @@
 Добавьте в Zabbix два хоста и задайте им имена <фамилия и инициалы-1> и <фамилия и инициалы-2>. Например: ivanovii-1 и ivanovii-2.
 
 Скриншот к Заданию 2 Созданы хосты
-https://github.com/Denic5/Zabbix2/blob/main/img/Hosts.png
+
 
 
 Процесс выполнения
@@ -51,14 +51,14 @@ https://github.com/Denic5/Zabbix2/blob/main/img/Hosts.png
 Проверьте что в разделе Latest Data начали появляться данные с добавленных агентов
 
 
-<img width="1598" height="951" alt="image" src="https://github.com/user-attachments/assets/c5346a05-2a76-4caf-af92-8db7bc4176a3" />
+
 
 Требования к результату
  Результат данного задания сдавайте вместе с заданием 3
 Задание 3
 Привяжите созданный шаблон к двум хостам. Также привяжите к обоим хостам шаблон Linux by Zabbix Agent.
 
-<img width="1639" height="547" alt="image" src="https://github.com/user-attachments/assets/357ce6d9-866b-4d74-8ce5-1d7e867a4bab" />
+
 
 Процесс выполнения
 Выполняя ДЗ сверяйтесь с процессом отражённым в записи лекции.
