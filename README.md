@@ -33,7 +33,7 @@
  Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 
  Скриншот Задание 1
- [!Задание 1](https://github.com/Denic5/Zabbix2/blob/85e1ee2182bc4ec821c69b3ff34c4b6066eb9bee/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.png)
+ ![Задание 1, Скриншот Шаблона с элементами](https://github.com/Denic5/Zabbix2/blob/85e1ee2182bc4ec821c69b3ff34c4b6066eb9bee/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.png)
 
 Задание 2
 Добавьте в Zabbix два хоста и задайте им имена <фамилия и инициалы-1> и <фамилия и инициалы-2>. Например: ivanovii-1 и ivanovii-2.
